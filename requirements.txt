@@ -1,0 +1,4 @@
+# Project dependencies
+# This file lists the external packages needed for the project
+# Most of the project uses Python built-in libraries (tkinter for GUI)
+# Add any additional packages your project requires here
