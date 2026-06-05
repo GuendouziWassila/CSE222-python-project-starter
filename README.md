@@ -106,4 +106,4 @@ Refer to function parameters and return value descriptions for guidance on your 
 
 ---
 
-**Complete this starter code with your project features!** 🚀
+**Complete this starter code with your project features!** 
